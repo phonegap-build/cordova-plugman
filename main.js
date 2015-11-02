@@ -31,7 +31,7 @@ var path = require('path')
 try {
     nopt = require('nopt');
     Q = require('q');
-    cordova_lib = require('cordova-lib');
+    cordova_lib = require('pgb-cordova-lib');
     plugman = cordova_lib.plugman;
 } catch(e) {
     console.error(
