@@ -2,7 +2,7 @@
   "author": "Andrew Lunny <alunny@gmail.com>",
   "name": "pgb-plugman",
   "description": "install/uninstall Cordova plugins",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "repository": {
     "type": "git",
     "url": "git://git-wip-us.apache.org/repos/asf/cordova-plugman.git"
@@ -17,7 +17,7 @@
   },
   "engineStrict":true,
   "dependencies": {
-    "pgb-cordova-lib": "5.3.4",
+    "pgb-cordova-lib": "6.0.0",
     "nopt": "1.0.9",
     "q": "1.0.1"
   },
