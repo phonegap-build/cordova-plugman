@@ -1,8 +1,8 @@
 {
     "author": "Andrew Lunny <alunny@gmail.com>",
-    "name": "pgb-plugman",
+    "name": "pgb-plugman-150",
     "description": "install/uninstall Cordova plugins",
-    "version": "1.5.1",
+    "version": "1.5.0",
     "repository": {
         "type": "git",
         "url": "git://git-wip-us.apache.org/repos/asf/cordova-plugman.git"
@@ -26,7 +26,7 @@
         "jasmine-node": "1.14.5"
     },
     "bin": {
-        "plugman": "./main.js"
+        "plugman-150": "./main.js"
     },
     "scripts": {
         "test": "npm run jasmine && npm run jshint",
